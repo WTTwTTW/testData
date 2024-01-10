@@ -1,0 +1,46 @@
+[
+    {
+        "name": "John Doe",
+        "age": 30,
+        "birthday": "1991-12-31",
+        "isManager": false,
+        "salary": 7500.23,
+        "email": "johndoe@example.com",
+        "phone": "+1 202-555-0181",
+        "address": {
+            "country": "USA",
+            "state": "California",
+            "city": "Los Angeles",
+            "street": "S Spring St",
+            "zip": "90013"
+        },
+        "skills": ["JavaScript", "HTML", "CSS"],
+        "joinedAt": "2023-01-01T00:00:00Z",
+        "passwordHash": "5f4dcc3b5aa765d61d8327deb882cf99",
+        "posts": null,
+        "profileUrl": "https://www.example.com/profile/johndoe",
+        "specialSymbols": "!@#$%^&*()"
+    },
+    {
+        "name": "Jane Smith",
+        "age": 28,
+        "birthday": "1994-05-22",
+        "isManager": true,
+        "salary": 8000.00,
+        "email": "janesmith@example.com",
+        "phone": "+1 202-555-0182",
+        "address": {
+            "country": "USA",
+            "state": "New York",
+            "city": "New York",
+            "street": "Broadway",
+            "zip": "10026"
+        },
+        "skills": ["Python", "Ruby", "SQL"],
+        "joinedAt": "2023-02-01T00:00:00Z",
+        "passwordHash": "6dcd4ce23d88e2ee95838f0b76b8b6d6",
+        "posts": null,
+        "profileUrl": "https://www.example.com/profile/janesmith",
+        "specialSymbols": "&*(){}[]"
+    }
+]
