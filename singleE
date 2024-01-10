@@ -1,0 +1,22 @@
+{
+    "name": "John Doe",
+    "age": 30,
+    "birthday": "1991-12-31",
+    "isManager": false,
+    "salary": 7500.23,
+    "email": "johndoe@example.com",
+    "phone": "+1 202-555-0181",
+    "address": {
+        "country": "USA",
+        "state": "California",
+        "city": "Los Angeles",
+        "street": "S Spring St",
+        "zip": "90013"
+    },
+    "skills": ["JavaScript", "HTML", "CSS"],
+    "joinedAt": "2023-01-01T00:00:00Z",
+    "passwordHash": "5f4dcc3b5aa765d61d8327deb882cf99",
+    "posts": null,
+    "profileUrl": "https://www.example.com/profile/johndoe",
+    "specialSymbols": "!@#$%^&*()"
+}
