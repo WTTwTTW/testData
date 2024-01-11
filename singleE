@@ -1,7 +1,6 @@
 {
     "name": "John Doe",
     "age": 30,
-    "birthday": "1991-12-31",
     "isManager": false,
     "salary": 7500.23,
     "email": "johndoe@example.com",
