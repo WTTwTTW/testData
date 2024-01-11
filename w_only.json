@@ -24,7 +24,7 @@
     {
         "name": "Jane Smith",
         "age": 28,
-        "birthday": "1994-05-22",
+        "birthday": ,
         "isManager": true,
         "salary": 8000.00,
         "email": "janesmith@example.com",
