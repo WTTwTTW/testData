@@ -8,12 +8,20 @@
 		},
 		"addresses": [{
 				"type": "billing",
-				"addressLine1": "123 Main St"
+				"postalCode": "12345"
 			},
 			{
 				"type": "shipping",
-				"addressLine1": "456 Main St",
+				"postalCode": "12345"
 			}
 		]
-	}
+	},
+	"orderItems": [{
+			"unitPrice": 9.99
+		},
+		{
+			"unitPrice": 10.00
+		}
+	],
+	"shipDate": null
 }
