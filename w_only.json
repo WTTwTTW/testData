@@ -5,7 +5,7 @@
         "birthday": "1991-12-31",
         "isManager": false,
         "salary": 7500.23,
-        "email": "johndoe@example.com",
+        "email": "wangtingting@example.com",
         "phone": "+1 202-555-0181",
         "address": {
             "country": "USA",
@@ -27,7 +27,7 @@
         "birthday": "2002-2-20",
         "isManager": true,
         "salary": 8000.00,
-        "email": "janesmith@example.com",
+        "email": "wangtingting@example.com",
         "phone": "+1 202-555-0182",
         "address": {
             "country": "USA",
