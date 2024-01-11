@@ -1,12 +1,14 @@
 {
     "name": "John Doe",
     "age": 30,
+    "birthday": "1991-12-31",
+    "isManager": false,
     "salary": 7500.23,
+    "email": "johndoe@example.com",
+    "phone": "+1 202-555-0181",
     "address": {
         "country": "USA",
         "state": "California",
-        "street": "S Spring St",
     },
-    "skills":["java","HTML"],
-    "joinedAt": "2023-01-01T00:00:00Z"
+    "skills": ["JavaScript", "HTML", "CSS"],
 }
