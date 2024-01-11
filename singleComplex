@@ -1,6 +1,6 @@
 {
 	"orderId": "123456789",
-	"total": 29.99,
+	"total": ,
 	"customer": {
 		"name": {
 			"firstName": "John",
