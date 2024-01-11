@@ -1,7 +1,7 @@
 {
 	"orderId": "123456789",
 	"status": "processing",
-	"total": 29.99,
+	"": 29.99,
 	"customer": {
 		"customerId": "abcd1234",
 		"email": "example@example.com",
