@@ -10,5 +10,5 @@
         "country": "USA",
         "state": "California",
     },
-    "skills": ["JavaScript", "HTML", "CSS"],
+    "skills": ["JavaScript", "HTML", "CSS"]
 }
