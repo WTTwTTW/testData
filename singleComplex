@@ -24,4 +24,31 @@
 		}
 	],
 	"shipDate": null
+},
+{
+	"orderId": "123456789",
+	"total": 29.99,
+	"customer": {
+		"name": {
+			"firstName": "John",
+			"lastName": "Doe"
+		},
+		"addresses": [{
+				"type": "billing",
+				"postalCode": "12345"
+			},
+			{
+				"type": "shipping",
+				"postalCode": "12345"
+			}
+		]
+	},
+	"orderItems": [{
+			"unitPrice": 9.99
+		},
+		{
+			"unitPrice": 10.00
+		}
+	],
+	"shipDate": null
 }
