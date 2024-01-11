@@ -7,6 +7,6 @@
         "state": "California",
         "street": "S Spring St",
     },
-    "skills": ["JavaScript", "HTML", "CSS"],
+    "skills": ["JavaScript", "HTML"],
     "joinedAt": "2023-01-01T00:00:00Z"
 }
