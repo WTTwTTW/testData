@@ -9,6 +9,5 @@
     "address": {
         "country": "USA",
         "state": "California",
-    },
-    "skills": ["JavaScript", "HTML", "CSS"]
+    }
 }
