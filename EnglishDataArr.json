@@ -6,9 +6,6 @@
         "isManager": false,
         "email": "johndoe@example.com",
         "phone": "+1 202-555-0181",
-        "address": {
-            "country": "USA",
-        },
         "skills": ["JavaScript", "HTML", "CSS"],
         "profileUrl": "https://www.example.com/profile/johndoe",
         "specialSymbols": "!@#$%^&*()"
@@ -20,9 +17,6 @@
         "isManager": true,
         "email": "johndoe@example.com",
         "phone": "+1 202-555-0182",
-        "address": {
-            "country": "USA",
-        },
         "skills": ["Python", "Ruby", "SQL"],
         "profileUrl": "https://www.example.com/profile/janesmith",
         "specialSymbols": "&*(){}[]"
