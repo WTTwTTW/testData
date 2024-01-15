@@ -4,21 +4,21 @@
         "age": 30,
         "birthday": "1991-12-31",
         "isManager": false,
-        "email": "wang@example.com",
+        "email": "zhouyi@example.com",
         "phone": "+1 202-555-0181",
         "skills": ["JavaScript", "HTML", "CSS"],
         "profileUrl": "https://www.example.com/profile/johndoe",
         "specialSymbols": "!@#$%^&*()"
     },
     {
-        "name": "Jane Smith",
-        "age": 28,
+        "name": "Jane Wang",
+        "age": 18,
         "birthday": "1994-05-22",
-        "isManager": true,
-        "email": "wang@example.com",
+        "isManager": flase,
+        "email": "zhouyi@example.com",
         "phone": "+1 202-555-0182",
-        "skills": ["Python", "Ruby", "SQL"],
+        "skills": ["Python", "Ruby"],
         "profileUrl": "https://www.example.com/profile/janesmith",
-        "specialSymbols": "&*(){}[]"
+        "specialSymbols": "&*(){}[]！～"
     }
 ]
