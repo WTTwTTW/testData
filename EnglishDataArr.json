@@ -14,7 +14,7 @@
         "name": "Jane Wang",
         "age": 18,
         "birthday": "1994-05-22",
-        "isManager": flase,
+        "isManager": false,
         "email": "zhouyi@example.com",
         "phone": "+1 202-555-0182",
         "skills": ["Python", "Ruby"],
